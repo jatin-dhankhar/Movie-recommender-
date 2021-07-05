@@ -32,7 +32,7 @@ Use powershell-
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
 ## Similarity Score : 
-
+   Here we will tell how it works.
    How does it decide which item is most similar to the item user likes? Here we use the similarity scores.
    
    It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
